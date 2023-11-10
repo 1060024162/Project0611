@@ -7,14 +7,12 @@
 			"files": [
 				"C:/UnrealProject/Project0611/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/UnrealProject/Project0611/Content/BluePrint/BP_GameInstance.uasset",
-				"C:/UnrealProject/Project0611/Content/BluePrint/BPI_ICollectible.uasset",
 				"C:/UnrealProject/Project0611/Content/BluePrint/BP_Collectible.uasset",
 				"C:/UnrealProject/Project0611/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/UnrealProject/Project0611/Content/BluePrint/WB_ScoreUI.uasset",
 				"C:/UnrealProject/Project0611/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/GQ/P6XVF7QWSD4AJL7TGWY6JY.uasset",
 				"C:/UnrealProject/Project0611/Content/BluePrint/BP_GameModeCustom.uasset",
 				"C:/UnrealProject/Project0611/Content/BluePrint/BP_Quest.uasset",
-				"C:/UnrealProject/Project0611/Content/BluePrint/ST_Objectif.uasset",
 				"C:/UnrealProject/Project0611/Content/BluePrint/Interface/BPI_ICollectible.uasset",
 				"C:/UnrealProject/Project0611/Content/BluePrint/Structure/ST_Objectif.uasset",
 				"C:/UnrealProject/Project0611/Content/BluePrint/Game/BP_GameModeCustom.uasset",
@@ -22,6 +20,14 @@
 				"C:/UnrealProject/Project0611/Content/BluePrint/BP_NPC.uasset",
 				"C:/UnrealProject/Project0611/Content/BluePrint/Structure/ST_Dialogue.uasset",
 				"C:/UnrealProject/Project0611/Content/BluePrint/Structure/DT_Dialogues.uasset",
+				"C:/UnrealProject/Project0611/Content/BluePrint/Structure/DT_Objectifs.uasset",
+				"C:/UnrealProject/Project0611/Content/BluePrint/BP_Collectible_Cuivre.uasset",
+				"C:/UnrealProject/Project0611/Content/BluePrint/Collectible/BP_Collectible.uasset",
+				"C:/UnrealProject/Project0611/Content/BluePrint/Collectible/BP_Collectible_Cuivre.uasset",
+				"C:/UnrealProject/Project0611/Content/BluePrint/WB_Dialogue.uasset",
+				"C:/UnrealProject/Project0611/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/A1/IK4XJ0TP2NN2MVI7NBC4BL.uasset",
+				"C:/UnrealProject/Project0611/Content/BluePrint/BPI_ICollectible.uasset",
+				"C:/UnrealProject/Project0611/Content/BluePrint/ST_Objectif.uasset",
 				"C:/UnrealProject/Project0611/Content/BluePrint/BP_Objectif.uasset"
 			]
 		}
